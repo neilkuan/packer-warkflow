@@ -11,7 +11,7 @@ unzip packer_1.7.4_darwin_amd64.zip && mv packer /usr/local/bin/
 
 ## Clone Project
 ```bash
-git clone https://github.com/neilkuan/packer-warkflow.git
+git clone https://github.com/neilkuan/packer-workflow.git
 ```
 
 ## Packer Demo AWS
